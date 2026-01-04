@@ -8,7 +8,6 @@ import random
 from constants import (WALL_COLOR, PATH_BG, YELLOW, VISITED_COLOR, 
                       GREEN, RED, WHITE, DARK_GRAY, EXPLORING_COLOR)
 
-
 class MazeCell:
     """Represents a single cell in the maze"""
     

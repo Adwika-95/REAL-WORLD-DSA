@@ -2,10 +2,8 @@
 """
 UI Components for the Algorithm Visualizer
 """
-
 import pygame
 from constants import *
-
 
 class Button:
     """A modern clickable button with hover effects and shadows"""

@@ -2,7 +2,6 @@
 """
 Algorithm Visualizer - Modern UI for Breadth-First Search visualization
 """
-
 import pygame
 import sys
 import time
@@ -11,10 +10,9 @@ from ui_components import  Button, Label, Dropdown
 from maze import Maze
 from algorithms import BFS, AStar, DFS
 
-
 class UIRenderer:
     """Handles rendering of UI elements and visualization"""
-    
+
     LEGEND_LINE_HEIGHT = 35
     CIRCLE_RADIUS = 10
     LEGEND_PADDING = 40

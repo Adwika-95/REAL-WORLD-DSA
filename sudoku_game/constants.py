@@ -1,0 +1,29 @@
+"""
+Constants for Sudoku Solver with DFS Visualization
+"""
+
+# Window dimensions
+WIDTH = 540
+HEIGHT = 640
+GRID_SIZE = 9
+CELL_SIZE = WIDTH // GRID_SIZE
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (30, 30, 30)
+GRAY = (128, 128, 128)
+LIGHT_GRAY = (200, 200, 200)
+GRID_COLOR = (100, 100, 100)
+HIGHLIGHT_COLOR = (200, 220, 255)
+SELECTED_COLOR = (150, 180, 255)
+FIXED_COLOR = (50, 50, 50)
+SOLVING_COLOR = (255, 200, 200)
+SOLVED_COLOR = (200, 255, 200)
+ERROR_COLOR = (255, 150, 150)
+
+# Fonts
+FONT_SIZE = 36
+SMALL_FONT_SIZE = 20
+
+# Timing
+SOLVE_DELAY = 0.01  # seconds between each step

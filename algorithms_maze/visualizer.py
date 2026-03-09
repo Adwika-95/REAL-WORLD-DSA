@@ -5,10 +5,10 @@ Algorithm Visualizer - Modern UI for Breadth-First Search visualization
 import pygame
 import sys
 import time
-from constants import *
-from ui_components import  Button, Label, Dropdown
-from maze import Maze
-from algorithms import BFS, AStar, DFS
+from algorithms_maze.constants import *
+from algorithms_maze.ui_components import  Button, Label, Dropdown
+from algorithms_maze.maze import Maze
+from algorithms_maze.algorithms import BFS, AStar, DFS
 
 class UIRenderer:
     """Handles rendering of UI elements and visualization"""

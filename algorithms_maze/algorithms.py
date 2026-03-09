@@ -6,7 +6,7 @@ Pathfinding algorithms for maze solving
 import pygame
 from collections import deque
 import heapq
-from constants import BACKGROUND
+from algorithms_maze.constants import BACKGROUND
 
 
 class PathfindingAlgorithm:

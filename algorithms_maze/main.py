@@ -3,7 +3,7 @@
 AlgoMaze - Pathfinding Algorithm Visualizer
 A pygame-based application for visualizing maze generation and pathfinding algorithms.
 """
-from visualizer import MazeVisualizer
+from algorithms_maze.visualizer import MazeVisualizer
 
 def main():
     """Main entry point for the application"""

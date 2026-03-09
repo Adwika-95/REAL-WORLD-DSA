@@ -4,7 +4,7 @@ DFS-based Sudoku solver with backtracking
 
 import time
 import pygame
-from constants import SOLVE_DELAY
+from algorithms_maze.constants import SOLVE_DELAY
 
 
 class SudokuSolver:

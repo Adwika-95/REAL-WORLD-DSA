@@ -4,7 +4,7 @@ Sudoku Solver Visualizer using DFS with Backtracking
 
 import pygame
 import time
-from constants import *
+from algorithms_maze.constants import *
 from sudoku_board import SudokuBoard
 from sudoku_solver import SudokuSolver
 from sudoku_visualizer import SudokuVisualizer

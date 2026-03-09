@@ -3,7 +3,7 @@ Visualization for Sudoku solving process
 """
 
 import pygame
-from constants import *
+from algorithms_maze.constants import *
 
 
 class SudokuVisualizer:

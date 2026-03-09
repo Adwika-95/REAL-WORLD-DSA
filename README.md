@@ -131,9 +131,6 @@ Each project has its own README with detailed steps.
 
 Example (Python Projects)
 python main.py
-Example (Weather App)
-python -m http.server 8000
-# Open http://localhost:8000/popup.html
 📌 Learning Outcomes
 
 ✔ Strong DSA fundamentals

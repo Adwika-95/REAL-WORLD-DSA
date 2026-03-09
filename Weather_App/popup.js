@@ -4,27 +4,27 @@ const API_KEY = "";
 const WEATHER_CONFIG = {
   cold: {
     frames: 7,
-    animationPath: 'Animations/cold/Frame',
+    animationPath: 'Animations/Cold/Frame',
     bgClass: 'night-bg'
   },
   cloudy: {
     frames: 6,
-    animationPath: 'Animations/cloudy/Cloudy',
+    animationPath: 'Animations/Cloudy/Cloudy',
     bgClass: 'cloudy-bg'
   },
   rainy: {
     frames: 4,
-    animationPath: 'Animations/rainy/rain',
+    animationPath: 'Animations/Rainy/rain',
     bgClass: 'rainy-bg'
   },
   sunny: {
     frames: 6,
-    animationPath: 'Animations/sunny/fun',
+    animationPath: 'Animations/Sunny/fun',
     bgClass: 'sunny-bg'
   },
   night: {
     frames: 6,
-    animationPath: 'Animations/sunny/fun',
+    animationPath: 'Animations/Fun_Night/fun',
     bgClass: 'night-bg'
   }
 };

@@ -1,4 +1,4 @@
-REAL-WORLD-DSA
+***DSA APPLICATIONS AND WEATHER APP***
 
 A curated collection of real-world Data Structures & Algorithms projects built using Python, C++, and Web technologies, focusing on visualization, problem-solving, and practical understanding rather than just theory.
 
